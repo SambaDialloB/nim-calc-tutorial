@@ -1,0 +1,21 @@
+[
+  {
+    "apihost": "https://apigcp.nimbella.io",
+    "namespace": "sambendi-ia4hja5xvpx",
+    "packageVersions": {
+      "calc": {
+        "version": "0.0.10",
+        "digest": "8bf982cdf98da529348d9c563d7eb247d0444fe71b92b2f79d88ca09f07793e6"
+      }
+    },
+    "actionVersions": {
+      "calc/eval": {
+        "version": "0.0.14",
+        "digest": "1269d6f8c703154f50ee491b0a9cf15294b114213b33ed5dc5402578c5e7460e"
+      }
+    },
+    "webHashes": {
+      "calcsample/web/index.html": "f0fd05ef69e308eb9481250298d054ef0bce1a0e3a8dcce4647673f8a29dde5c"
+    }
+  }
+]
